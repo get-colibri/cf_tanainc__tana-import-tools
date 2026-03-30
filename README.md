@@ -6,7 +6,7 @@
 
 This project consists of a [JSON specification](https://github.com/tagrhub/tana-import-tools/blob/main/src/types/types.ts) of our common import format for Tana, as well as a set of converters which turn other formats into this format.
 
-If you need to do ~~some~~ something special with your data before putting it into Tana you can just fork this project and hack the current converters into doing what you need. As long as the resulting file follows the format you will be able to import it into Tana.
+If you need to do ~~some~~ something special with your data before putting it into Tana you can just fork this project and hack the current converters into doing what you need. As long as the resulting file follows the format you will be able to import it into Tana - with love.
 
 If you are making changes that you think will benefit other users, please create a pull request.
 
